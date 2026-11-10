@@ -1,1 +1,37 @@
+{
+  "app_status": {
+    "is_disabled": false,
+    
+  "update_config": {
+      "enabled": false,
+      "version_name": "9.9.9",
+      "title": "🚨 ALERT: Fake App Detected! 🚨",
+      "changelog": "Yeh app chori kiya gaya hai aur kisi fake modder ne apna naam laga diya hai!\n\nApp enjoy karein, lekin hamesha real creator ko support karein. Asli aur safe updates ke liye real developer se contact karein.\n\nHamara Official Telegram Channel join karein:\n@1",
+      "download_url": "https://t.me/",
+      "is_force_update": false,
+      "positive_btn": "Join NMMS Channel",
+      "negative_btn": ""
 
+    },
+
+    "dialog_notice": {
+      "enabled": false,
+      "title": "Important Notice",
+      "message": " TRY SOMETIMES TYPE LETER. CONTACT US @p IN TELEGRAM ",
+      "button_text": "OK GOT IT ",
+      "should_crash": false
+    },
+    
+    "normal_toast": {
+      "enabled": false,
+      "message": "⚠️: Fake App! Contact Real Developer @p",
+      "toast_count": 10
+    },
+    
+    "crash_config": {
+      "enabled": false,
+      "message": "Fake App! Contact Real Developer @p",
+      "toast_count": 4
+    }
+  }
+}
